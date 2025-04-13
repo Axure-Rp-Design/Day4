@@ -28,7 +28,9 @@ This is a great demonstration of Axure's capability to simulate real-world UI lo
 
 
 
-![Calculator output](Screen Recording 2025-04-12 215059.mp4)
+![Calculator output ScreenRecord](Calculator.mp4)
+![Calculator output](output1.png)
+![Calculator output](output2.png)
 
 ## 👤 Author
 
