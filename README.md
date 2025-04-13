@@ -28,12 +28,12 @@ This is a great demonstration of Axure's capability to simulate real-world UI lo
 
 
 
-![Calculator output](./Screen Recording 2025-04-12 215059.mp4)
+![Calculator output](Screen Recording 2025-04-12 215059.mp4)
 
 ## 👤 Author
 
 **Dinuki Prarthana**  
-🔗 [Your Portfolio or GitHub](https://github.com/Dinuki85)  
+🔗 [GitHub](https://github.com/Dinuki85)  
  
 ## 📄 License
 
